@@ -1,0 +1,65 @@
+CRITICAL - 2022-03-05 10:56:10 --> Class "App\Models\ProductModel" not found
+#0 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(802): App\Controllers\ProductController->__construct()
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-03-05 11:02:14 --> Unknown column '$distnct' in 'field list'
+CRITICAL - 2022-03-05 11:02:14 --> Unknown column '$distnct' in 'field list'
+#0 E:\xampp\htdocs\hitchpay\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT DISTINCT...', 0)
+#1 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT DISTINCT...')
+#2 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT DISTINCT...')
+#3 E:\xampp\htdocs\hitchpay\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT DISTINCT...', Array, false)
+#4 E:\xampp\htdocs\hitchpay\app\Models\ProductModel.php(32): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\xampp\htdocs\hitchpay\app\Controllers\ProductController.php(111): App\Models\ProductModel->distinctVal('fasttag', 'classoftag')
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\ProductController->index()
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+#8 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-05 11:05:08 --> Array to string conversion
+#0 E:\xampp\htdocs\hitchpay\app\Views\admin\addProduct.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'E:\\xampp\\htdocs...', 89)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('admin/addProduc...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\ProductController.php(113): view('admin/addProduc...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\ProductController->index()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-05 11:05:54 --> Array to string conversion
+#0 E:\xampp\htdocs\hitchpay\app\Views\admin\addProduct.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'E:\\xampp\\htdocs...', 89)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('admin/addProduc...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\ProductController.php(113): view('admin/addProduc...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\ProductController->index()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ProductController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-03-05 12:46:10 --> Unknown column 'productid' in 'field list'
+CRITICAL - 2022-03-05 12:46:10 --> Unknown column 'productid' in 'field list'
+#0 E:\xampp\htdocs\hitchpay\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `no...', 0)
+#1 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `no...')
+#2 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `no...')
+#3 E:\xampp\htdocs\hitchpay\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `no...', Array, false)
+#4 E:\xampp\htdocs\hitchpay\app\Models\SalesManagerModel.php(14): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 E:\xampp\htdocs\hitchpay\app\Controllers\SalesManagerController.php(239): App\Models\SalesManagerModel->loginDatainsert('nomeedetails', Array)
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesManagerController->addSalesManager()
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesManagerController))
+#8 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-05 13:09:27 --> Undefined array key "firstName"
+#0 E:\xampp\htdocs\hitchpay\app\Views\admin\viewsalesmanager.php(187): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 187)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('admin/viewsales...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\SalesManagerController.php(578): view('admin/viewsales...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesManagerController->viewsalesmanagerProfile('3')
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesManagerController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

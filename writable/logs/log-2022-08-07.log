@@ -1,0 +1,1379 @@
+CRITICAL - 2022-08-07 16:12:28 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(283): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 283)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->verifycustomer()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:13:37 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(283): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 283)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->verifycustomer()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:14:01 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:14:29 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:14:37 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:14:53 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(283): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 283)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->verifycustomer()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:15:02 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:15:47 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:16:35 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:17:38 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:18:39 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:18:53 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:19:04 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:19:09 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:19:52 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:20:05 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:20:39 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:20:43 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:22:25 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:23:38 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:24:32 --> Undefined variable $admndta
+#0 /home/kottakotabusines/public_html/app/Controllers/AdminDashboardController.php(30): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 30)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\AdminDashboardController->index()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminDashboardController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:25:10 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:28:43 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:30:16 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:35:08 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:35:29 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:35:34 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:35:47 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:35:52 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:37:15 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1897): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:38:17 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:42:06 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:42:16 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:46:07 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:49:17 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:50:10 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:51:08 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:51:28 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:51:43 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:54:09 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:54:09 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 16:55:14 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1896): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 16:55:41 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1033): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:01:10 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:10:42 --> Call to undefined method CodeIgniter\Email\Email::set_header()
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(494): sendEMail('sam99abhi@gmail...', 'connect@kottako...', 'OTP For Your Lo...', 'Hi, <br> Your r...')
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->sendotp()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:11:42 --> Using $this when not in object context
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(494): sendEMail('sam99abhi@gmail...', 'connect@kottako...', 'OTP For Your Lo...', 'Hi, <br> Your r...')
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->sendotp()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:11:57 --> Using $this when not in object context
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(494): sendEMail('sam99abhi@gmail...', 'connect@kottako...', 'OTP For Your Lo...', 'Hi, <br> Your r...')
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->sendotp()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:12:04 --> Using $this when not in object context
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(494): sendEMail('sam99abhi@gmail...', 'connect@kottako...', 'OTP For Your Lo...', 'Hi, <br> Your r...')
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->sendotp()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:12:22 --> Using $this when not in object context
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(494): sendEMail('sam99abhi@gmail...', 'connect@kottako...', 'OTP For Your Lo...', 'Hi, <br> Your r...')
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->sendotp()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:14:10 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:19:10 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:19:55 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:20:49 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:33:44 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:39:01 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:40:53 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:42:41 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:42:45 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:43:16 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:43:20 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:44:12 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:44:36 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:49:42 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 17:51:41 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:53:16 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:53:37 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 17:54:31 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:02:18 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 18:02:22 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 18:02:25 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 18:02:31 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 18:03:02 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 18:08:57 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:09:31 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:11:30 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 18:12:21 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:14:01 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:15:34 --> unlink(/home/kottakotabusines/public_html/writable/debugbar/debugbar_1659876207.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottakota...', 74)
+#1 /home/kottakotabusines/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1659876332, 20)
+#3 /home/kottakotabusines/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottakotabusines/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottakotabusines/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-08-07 18:16:08 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 18:18:22 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:18:28 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:18:41 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:18:48 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:19:13 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:19:43 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:20:49 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:21:53 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:12 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:15 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:17 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:19 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:21 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:22 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:24 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:24 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:29 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:33 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:35 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:37 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:50 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:22:53 --> Call to undefined function App\Controllers\random_string()
+#0 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->saleagentapilogin()
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-08-07 18:26:06 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:32:05 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:32:11 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:35:16 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 18:38:27 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:48:15 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 18:52:14 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 18:54:24 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 19:04:03 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1894): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 19:10:15 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 19:14:18 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 19:19:16 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 19:39:16 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 19:40:46 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 19:45:46 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 19:47:46 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 19:49:47 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 19:54:53 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 20:00:47 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:01:31 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/CustometrOnboardingController.php(139): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 139)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\CustometrOnboardingController->customeronboarding()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CustometrOnboardingController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:03:36 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 20:17:48 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:20:54 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:21:15 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:24:25 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:35:07 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:38:03 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 20:38:06 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:38:13 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 20:39:11 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:39:28 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:39:33 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:39:56 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:40:13 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:42:07 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:44:57 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:50:28 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 20:52:50 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 21:00:31 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 21:01:30 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 21:16:29 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 21:16:50 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 21:16:53 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1894): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 21:17:08 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 21:18:07 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 21:21:44 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 21:26:31 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1894): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 21:26:49 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/ncpitag.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 106)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 21:27:34 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1894): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 21:36:04 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 21:38:19 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 22:01:23 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 22:11:26 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 22:22:18 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Views/salesagent/activateexisting.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 94)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/acti...', Array, true)
+#4 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1894): view('salesagent/acti...', Array)
+#5 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#6 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-08-07 22:23:59 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 22:35:21 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 22:37:02 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 22:37:55 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 22:39:36 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 22:42:48 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 22:54:51 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 23:12:29 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 23:13:58 --> Trying to access array offset on value of type null
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentTagController.php(65): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', '/home/kottakota...', 65)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->newuseractivation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 23:14:31 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 23:19:32 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 23:38:22 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-07 23:49:53 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}

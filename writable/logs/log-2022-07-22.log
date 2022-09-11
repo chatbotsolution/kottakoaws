@@ -1,0 +1,1446 @@
+CRITICAL - 2022-07-22 00:15:57 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 00:56:32 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 01:52:01 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 02:23:33 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 04:56:38 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 06:35:41 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 06:37:20 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 06:53:59 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 07:13:52 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 07:36:10 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 07:37:40 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 07:53:36 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/salesagent/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/salesa...', NULL, true)
+#4 /home/kottako/public_html/app/Views/salesagent/ncpitag.php(41): CodeIgniter\View\View->include('partials/salesa...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/SalesAgentController.php(1031): view('salesagent/ncpi...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-07-22 07:54:10 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 07:54:50 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 08:14:11 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 08:15:47 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 08:27:36 --> Undefined array key "tagActivationId"
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(271): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 271)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->verifycustomer()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 08:29:24 --> Undefined variable $wallatdetails
+#0 /home/kottako/public_html/app/Views/salesagent/tagactivationnew.php(436): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 436)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/taga...', Array, true)
+#4 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(165): view('salesagent/taga...', Array)
+#5 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->verifyotp()
+#6 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#7 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-22 08:41:46 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/walletactivation.php(34): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/walletact...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/AdminDashboardController.php(176): view('admin/walletact...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\AdminDashboardController->walletactivation()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminDashboardController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-07-22 08:46:20 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 08:55:11 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 09:07:13 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 09:16:12 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 09:35:16 --> Undefined array key "tagActivationId"
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(500): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 500)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->allotbarcode()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 09:36:12 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 09:37:42 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 09:46:42 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 09:54:12 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 09:59:39 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:07:43 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:09:36 --> Undefined variable $wallatdetails
+#0 /home/kottako/public_html/app/Views/salesagent/tagactivationnew.php(436): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 436)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/taga...', Array, true)
+#4 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(165): view('salesagent/taga...', Array)
+#5 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->verifyotp()
+#6 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#7 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-07-22 10:14:13 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:21:14 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:21:34 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:27:02 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:28:37 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:32:59 --> Undefined array key "tagActivationId"
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(500): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 500)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->allotbarcode()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:34:09 --> Undefined array key "tagActivationId"
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(500): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 500)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->allotbarcode()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:55:14 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:58:42 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 10:59:44 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 11:09:47 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658467992.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658468383, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 11:09:47 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658467992.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658468383, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 11:13:29 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 11:16:14 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 11:21:45 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 11:21:46 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 11:21:55 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658468884.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658469113, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 11:27:15 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 11:28:45 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 11:29:26 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 11:46:48 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 11:58:47 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:07:49 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:11:03 --> Undefined array key "tagActivationId"
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(271): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 271)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->verifycustomer()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:13:47 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:21:48 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:26:26 --> ini_set(): Session ini settings cannot be changed after headers have already been sent
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Sess...', '/home/kottako/p...', 71)
+#1 /home/kottako/public_html/system/Session/Handlers/FileHandler.php(71): ini_set('session.save_pa...', '/home/kottako/p...')
+#2 /home/kottako/public_html/system/Config/Services.php(570): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\App), '158.69.38.193')
+#3 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#4 /home/kottako/public_html/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#5 /home/kottako/public_html/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#6 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#7 /home/kottako/public_html/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/kottako/public_html/app/Controllers/apiController.php(32): session()
+#9 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\apiController->__construct()
+#10 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-07-22 12:26:26 --> Uncaught ErrorException: Cannot modify header information - headers already sent in /home/kottako/public_html/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/kottako/p...', 112)
+#1 /home/kottako/public_html/system/Debug/Exceptions.php(112): header('HTTP/1.0 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-22 12:27:32 --> ini_set(): Session ini settings cannot be changed after headers have already been sent
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Sess...', '/home/kottako/p...', 71)
+#1 /home/kottako/public_html/system/Session/Handlers/FileHandler.php(71): ini_set('session.save_pa...', '/home/kottako/p...')
+#2 /home/kottako/public_html/system/Config/Services.php(570): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\App), '158.69.38.193')
+#3 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#4 /home/kottako/public_html/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#5 /home/kottako/public_html/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#6 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#7 /home/kottako/public_html/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/kottako/public_html/app/Controllers/apiController.php(32): session()
+#9 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\apiController->__construct()
+#10 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-07-22 12:27:32 --> Uncaught ErrorException: Cannot modify header information - headers already sent in /home/kottako/public_html/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/kottako/p...', 112)
+#1 /home/kottako/public_html/system/Debug/Exceptions.php(112): header('HTTP/1.0 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-22 12:28:51 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:29:32 --> ini_set(): Session ini settings cannot be changed after headers have already been sent
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Sess...', '/home/kottako/p...', 71)
+#1 /home/kottako/public_html/system/Session/Handlers/FileHandler.php(71): ini_set('session.save_pa...', '/home/kottako/p...')
+#2 /home/kottako/public_html/system/Config/Services.php(570): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\App), '158.69.38.193')
+#3 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#4 /home/kottako/public_html/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#5 /home/kottako/public_html/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#6 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#7 /home/kottako/public_html/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/kottako/public_html/app/Controllers/apiController.php(32): session()
+#9 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\apiController->__construct()
+#10 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-07-22 12:29:32 --> Uncaught ErrorException: Cannot modify header information - headers already sent in /home/kottako/public_html/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/kottako/p...', 112)
+#1 /home/kottako/public_html/system/Debug/Exceptions.php(112): header('HTTP/1.0 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-07-22 12:29:48 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:34:31 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:37:45 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:59:24 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 12:59:50 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 13:04:00 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 13:19:44 --> Undefined variable $totalTime
+#0 /home/kottako/public_html/system/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 40)
+#1 /home/kottako/public_html/system/Debug/Toolbar.php(501): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-07-22 13:30:09 --> Email: sendWithSmtp throwed fsockopen(): SSL: Handshake timed out
+ERROR - 2022-07-22 13:32:25 --> Email: sendWithSmtp throwed fsockopen(): SSL: Handshake timed out
+ERROR - 2022-07-22 13:32:59 --> Email: sendWithSmtp throwed fsockopen(): SSL: Handshake timed out
+ERROR - 2022-07-22 13:33:28 --> Email: sendWithSmtp throwed fwrite(): SSL operation failed with code 1. OpenSSL Error messages:
+error:140D00CF:SSL routines:SSL_write:protocol is shutdown
+ERROR - 2022-07-22 13:33:34 --> Email: sendWithSmtp throwed fwrite(): SSL operation failed with code 1. OpenSSL Error messages:
+error:140D00CF:SSL routines:SSL_write:protocol is shutdown
+CRITICAL - 2022-07-22 13:33:39 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 13:33:52 --> Undefined variable $totalTime
+#0 /home/kottako/public_html/system/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 40)
+#1 /home/kottako/public_html/system/Debug/Toolbar.php(501): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-07-22 13:36:50 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 13:37:40 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 13:39:19 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-07-22 13:43:06 --> Email: sendWithSmtp throwed fsockopen(): SSL: Handshake timed out
+CRITICAL - 2022-07-22 13:54:22 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 13:58:53 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 13:59:43 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658478449.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658478581, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 13:59:52 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:01:17 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658478527.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658478668, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 14:03:22 --> Undefined variable $response
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(1884): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 1884)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:08:36 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:12:53 --> Undefined variable $response
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(1884): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 1884)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:13:57 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:14:26 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:22:04 --> Undefined array key "tagActivationId"
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(271): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 271)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->verifycustomer()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:22:06 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-07-22 14:27:43 --> Email: sendWithSmtp throwed fsockopen(): SSL: Handshake timed out
+CRITICAL - 2022-07-22 14:29:55 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:30:46 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:31:41 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658480307.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658480488, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 14:53:51 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:55:27 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 14:55:35 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:05:02 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658481986.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658482498, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 15:06:36 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:16:26 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:19:00 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:25:22 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:29:30 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:30:57 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:33:46 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:35:27 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:37:57 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:39:17 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658484478.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658484554, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 15:40:01 --> Undefined variable $response
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(1884): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 1884)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:41:29 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:46:59 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:53:59 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:54:58 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:55:43 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 15:56:13 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658485410.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658485551, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 15:56:27 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658485435.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658485576, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 15:59:59 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 16:04:29 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 16:07:59 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 16:08:59 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 16:10:09 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658486212.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658486406, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 16:19:29 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 16:25:30 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 16:34:00 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 16:41:32 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 16:55:02 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:00:12 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:12:38 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:20:44 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:22:33 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:27:34 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:29:04 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:31:14 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:54:05 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:56:05 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 17:59:06 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:07:17 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:13:07 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:14:10 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:19:57 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:21:07 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:22:37 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:25:48 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:30:08 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:34:08 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:41:53 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:41:55 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:44:20 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 18:55:15 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 19:08:13 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 19:29:51 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 19:35:42 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 19:38:13 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 19:42:22 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 19:44:52 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 20:00:13 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 20:05:04 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 20:08:44 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 20:10:13 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 20:13:24 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 20:21:26 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 20:43:59 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 21:10:13 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 21:31:28 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 21:42:48 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 21:43:07 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658505742.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658506380, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 21:44:04 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 21:44:19 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 21:45:19 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 21:54:15 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 21:54:53 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 21:56:55 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:08:25 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:09:39 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:10:20 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:23:03 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:26:05 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:26:53 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:33:58 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:34:22 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:38:50 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658509647.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658509726, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 22:40:25 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1658509709.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1658509821, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-07-22 22:42:03 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:42:22 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:44:22 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:45:11 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:54:43 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 22:55:33 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 23:26:55 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 23:34:25 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 23:42:41 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 23:44:35 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 23:44:53 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-22 23:45:35 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 75)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}

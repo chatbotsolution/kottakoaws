@@ -1,0 +1,77 @@
+CRITICAL - 2022-03-16 20:59:16 --> Call to undefined method App\Models\ProductModel::viewprdata
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(996): CodeIgniter\Model->__call('viewprdata', Array)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 20:59:50 --> Undefined property: App\Controllers\SalesAgentController::$loginmodel
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(996): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 996)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 22:02:12 --> Call to undefined method App\Models\ProductModel::snglprddtls
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(994): CodeIgniter\Model->__call('snglprddtls', Array)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 22:02:28 --> Call to undefined method App\Models\ProductModel::snglprddtls
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(994): CodeIgniter\Model->__call('snglprddtls', Array)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 22:03:09 --> Call to undefined method App\Models\ProductModel::snglprddtls
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(994): CodeIgniter\Model->__call('snglprddtls', Array)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 22:24:05 --> Cannot access offset of type string on string
+#0 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-16 22:24:24 --> Cannot access offset of type string on string
+#0 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-16 22:24:43 --> Undefined array key "fastagClass"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1000): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1000)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 23:27:03 --> syntax error, unexpected token ",", expecting "]"
+#0 E:\xampp\htdocs\hitchpay\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\hitchpay\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-16 23:30:31 --> Undefined property: App\Controllers\SalesAgentController::$input
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1007): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 1007)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-16 23:32:44 --> Undefined property: App\Controllers\SalesAgentController::$input
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1019): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 1019)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

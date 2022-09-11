@@ -1,0 +1,888 @@
+ERROR - 2022-04-15 09:13:20 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 09:17:56 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 09:29:23 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 09:30:06 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 09:30:59 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1649995118.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1649995257, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 09:31:54 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 09:34:46 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 09:40:12 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1649995693.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1649995810, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 09:40:26 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 09:42:11 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 09:53:59 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 09:54:07 --> Invalid file: teamlead/editprofile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/editpr...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/editpr...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(248): view('teamlead/editpr...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->editProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 10:09:56 --> unlink(/home/kottako/public_html/writable/debugbar/debugbar_1649997437.json): No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'unlink(/home/ko...', '/home/kottako/p...', 74)
+#1 /home/kottako/public_html/system/Debug/Toolbar/Collectors/History.php(74): unlink('/home/kottako/p...')
+#2 /home/kottako/public_html/system/Debug/Toolbar.php(487): CodeIgniter\Debug\Toolbar\Collectors\History->setFiles(1649997583, 20)
+#3 /home/kottako/public_html/system/Debug/Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#4 /home/kottako/public_html/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#5 /home/kottako/public_html/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#6 /home/kottako/public_html/system/CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#7 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2022-04-15 10:13:55 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 10:34:36 --> Invalid file: teamlead/editprofile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/editpr...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/editpr...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(248): view('teamlead/editpr...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->editProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 10:34:49 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-15 11:02:33 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 11:02:49 --> Invalid file: admin/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/Profile.p...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/Profile', Array, true)
+#2 /home/kottako/public_html/app/Controllers/profileController.php(148): view('admin/Profile', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\profileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\profileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:02:55 --> ini_set(): Session ini settings cannot be changed after headers have already been sent
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Sess...', '/home/kottako/p...', 71)
+#1 /home/kottako/public_html/system/Session/Handlers/FileHandler.php(71): ini_set('session.save_pa...', '/home/kottako/p...')
+#2 /home/kottako/public_html/system/Config/Services.php(570): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\App), '136.232.173.98')
+#3 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#4 /home/kottako/public_html/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#5 /home/kottako/public_html/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#6 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#7 /home/kottako/public_html/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/kottako/public_html/app/Controllers/SalesAgentController.php(26): session()
+#9 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\SalesAgentController->__construct()
+#10 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 11:02:55 --> Uncaught ErrorException: Cannot modify header information - headers already sent in /home/kottako/public_html/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/kottako/p...', 112)
+#1 /home/kottako/public_html/system/Debug/Exceptions.php(112): header('HTTP/1.0 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2022-04-15 11:02:59 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 11:45:19 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:45:52 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:48:22 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/TeamLeadController.php(1026): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadController->fastagInventory()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 11:48:25 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/TeamLeadController.php(1026): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadController->fastagInventory()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 11:50:31 --> Undefined variable $sales
+#0 /home/kottako/public_html/app/Views/teamlead/viewsalesagent.php(67): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 67)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/viewsa...', Array, true)
+#4 /home/kottako/public_html/app/Controllers/SalesAgentController.php(689): view('teamlead/viewsa...', Array)
+#5 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->viewoemProfile('text-center.htm...')
+#6 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-15 11:51:15 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 11:52:18 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(309): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 11:52:26 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(309): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 11:52:29 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(309): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 11:52:34 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(309): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 11:52:40 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(309): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-15 11:57:10 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 12:04:55 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(309): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-15 12:09:01 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 12:09:42 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(309): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:12:19 --> ini_set(): Session ini settings cannot be changed after headers have already been sent
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Sess...', '/home/kottako/p...', 71)
+#1 /home/kottako/public_html/system/Session/Handlers/FileHandler.php(71): ini_set('session.save_pa...', '/home/kottako/p...')
+#2 /home/kottako/public_html/system/Config/Services.php(570): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\App), '136.232.173.98')
+#3 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#4 /home/kottako/public_html/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#5 /home/kottako/public_html/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#6 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#7 /home/kottako/public_html/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/kottako/public_html/app/Controllers/SalesAgentController.php(26): session()
+#9 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\SalesAgentController->__construct()
+#10 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 12:12:19 --> Uncaught ErrorException: Cannot modify header information - headers already sent in /home/kottako/public_html/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/kottako/p...', 112)
+#1 /home/kottako/public_html/system/Debug/Exceptions.php(112): header('HTTP/1.0 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:12:59 --> ini_set(): Session ini settings cannot be changed after headers have already been sent
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Sess...', '/home/kottako/p...', 71)
+#1 /home/kottako/public_html/system/Session/Handlers/FileHandler.php(71): ini_set('session.save_pa...', '/home/kottako/p...')
+#2 /home/kottako/public_html/system/Config/Services.php(570): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\App), '122.175.138.13')
+#3 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#4 /home/kottako/public_html/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#5 /home/kottako/public_html/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#6 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#7 /home/kottako/public_html/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/kottako/public_html/app/Controllers/SalesAgentController.php(26): session()
+#9 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\SalesAgentController->__construct()
+#10 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 12:12:59 --> Uncaught ErrorException: Cannot modify header information - headers already sent in /home/kottako/public_html/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/kottako/p...', 112)
+#1 /home/kottako/public_html/system/Debug/Exceptions.php(112): header('HTTP/1.0 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:20:00 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:27:07 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(309): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-15 12:28:36 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 12:31:32 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:33 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:34 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:35 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:35 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:36 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:42 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:42 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:42 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:43 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:43 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:43 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:43 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:31:43 --> Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 12:38:11 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(309): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-15 12:38:43 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 12:45:26 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 12:53:00 --> Undefined variable $userModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:53:12 --> Undefined variable $userModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:53:13 --> Undefined variable $userModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:53:16 --> Undefined variable $userModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:53:26 --> Undefined variable $userModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:53:36 --> Undefined variable $userModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:53:50 --> Undefined variable $loginModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:53:54 --> Undefined variable $loginModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:53:55 --> Undefined variable $loginModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-15 12:53:56 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 12:53:57 --> Undefined variable $loginModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:54:00 --> Undefined variable $loginModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:54:03 --> Undefined variable $loginModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-15 12:54:32 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 12:54:33 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 12:54:48 --> Undefined variable $loginModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 12:54:48 --> Undefined variable $loginModel
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(398): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 398)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 13:02:08 --> Undefined variable $pager
+#0 /home/kottako/public_html/app/Views/admin/managefasttag.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 154)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#4 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#5 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#6 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#7 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-15 13:07:50 --> ini_set(): Session ini settings cannot be changed after headers have already been sent
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Sess...', '/home/kottako/p...', 71)
+#1 /home/kottako/public_html/system/Session/Handlers/FileHandler.php(71): ini_set('session.save_pa...', '/home/kottako/p...')
+#2 /home/kottako/public_html/system/Config/Services.php(570): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\App), '42.111.136.147')
+#3 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#4 /home/kottako/public_html/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#5 /home/kottako/public_html/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#6 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#7 /home/kottako/public_html/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/kottako/public_html/app/Controllers/TeamLeadController.php(18): session()
+#9 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\TeamLeadController->__construct()
+#10 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 13:07:50 --> Uncaught ErrorException: Cannot modify header information - headers already sent in /home/kottako/public_html/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/kottako/p...', 112)
+#1 /home/kottako/public_html/system/Debug/Exceptions.php(112): header('HTTP/1.0 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-04-15 13:08:08 --> ini_set(): Session ini settings cannot be changed after headers have already been sent
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'ini_set(): Sess...', '/home/kottako/p...', 71)
+#1 /home/kottako/public_html/system/Session/Handlers/FileHandler.php(71): ini_set('session.save_pa...', '/home/kottako/p...')
+#2 /home/kottako/public_html/system/Config/Services.php(570): CodeIgniter\Session\Handlers\FileHandler->__construct(Object(Config\App), '42.111.136.147')
+#3 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#4 /home/kottako/public_html/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#5 /home/kottako/public_html/system/Config/Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#6 /home/kottako/public_html/system/Config/BaseService.php(248): CodeIgniter\Config\Services::session()
+#7 /home/kottako/public_html/system/Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#8 /home/kottako/public_html/app/Controllers/TeamLeadController.php(18): session()
+#9 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\TeamLeadController->__construct()
+#10 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 13:08:08 --> Uncaught ErrorException: Cannot modify header information - headers already sent in /home/kottako/public_html/system/Debug/Exceptions.php:112
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'Cannot modify h...', '/home/kottako/p...', 112)
+#1 /home/kottako/public_html/system/Debug/Exceptions.php(112): header('HTTP/1.0 500 In...', true, 500)
+#2 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(ErrorException))
+#3 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+ERROR - 2022-04-15 13:31:14 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 13:37:07 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 13:37:12 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 14:42:07 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 14:54:34 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 15:13:41 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 15:17:54 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 15:21:57 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 15:22:01 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 15:30:24 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 15:34:31 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 15:36:04 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 15:36:09 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 15:36:37 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 15:46:01 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 15:53:53 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 16:03:57 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 16:08:36 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 16:09:38 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 16:09:46 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottako/public_html/app/Views/admin/managefasttag.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/FastTagController.php(403): view('admin/managefas...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-04-15 16:11:49 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 16:17:58 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 16:18:32 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 16:18:39 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 16:18:44 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 16:18:48 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 16:19:56 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 16:28:30 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 16:45:02 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-15 17:00:39 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 17:00:50 --> Undefined array key "logged_img"
+#0 /home/kottako/public_html/app/Views/partials/salesagent/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 5)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/salesa...', NULL, true)
+#4 /home/kottako/public_html/app/Views/salesagent/ncpitag.php(18): CodeIgniter\View\View->include('partials/salesa...')
+#5 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#6 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#8 /home/kottako/public_html/app/Controllers/SalesAgentController.php(965): view('salesagent/ncpi...', Array)
+#9 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#10 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#11 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-04-15 17:17:16 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 17:17:23 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 17:18:23 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-15 17:21:56 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 18:42:27 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 18:42:55 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 18:53:21 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 18:54:10 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 18:55:57 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 19:07:06 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 19:07:13 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-15 20:42:19 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-15 21:15:20 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-15 21:20:20 --> Undefined variable $profileimg
+#0 /home/kottako/public_html/app/Controllers/SalesManagerController.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 138)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesManagerController->addSalesManager()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesManagerController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-15 21:20:36 --> Undefined variable $profileimg
+#0 /home/kottako/public_html/app/Controllers/SalesManagerController.php(138): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 138)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesManagerController->addSalesManager()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesManagerController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-15 21:29:50 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 22:48:12 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 22:55:26 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 22:59:25 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-15 23:25:41 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed

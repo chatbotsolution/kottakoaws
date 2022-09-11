@@ -1,0 +1,196 @@
+ERROR - 2022-04-17 08:34:36 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-17 09:09:58 --> Undefined variable $users
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(405): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 405)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 09:13:32 --> Undefined variable $searchData
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(401): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 401)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 09:14:19 --> Undefined variable $search
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(400): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 400)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-17 09:17:37 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-17 09:30:14 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-17 09:49:27 --> syntax error, unexpected token "return", expecting "function" or "const"
+#0 /home/kottako/public_html/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/kottako/p...')
+#1 /home/kottako/public_html/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 /home/kottako/public_html/system/CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 /home/kottako/public_html/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-17 09:50:18 --> syntax error, unexpected token "return", expecting "function" or "const"
+#0 /home/kottako/public_html/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/kottako/p...')
+#1 /home/kottako/public_html/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 /home/kottako/public_html/system/CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 /home/kottako/public_html/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-17 09:50:28 --> syntax error, unexpected token "return", expecting "function" or "const"
+#0 /home/kottako/public_html/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/kottako/p...')
+#1 /home/kottako/public_html/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 /home/kottako/public_html/system/CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 /home/kottako/public_html/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-17 09:58:39 --> Undefined array key "type"
+#0 /home/kottako/public_html/app/Views/admin/managefasttagspecific.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 96)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#4 /home/kottako/public_html/app/Controllers/FastTagController.php(425): view('admin/managefas...', Array)
+#5 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttagspecific('allocated')
+#6 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#7 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 09:59:25 --> Undefined variable $type
+#0 /home/kottako/public_html/app/Views/admin/managefasttagspecific.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 96)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#4 /home/kottako/public_html/app/Controllers/FastTagController.php(425): view('admin/managefas...', Array)
+#5 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttagspecific('allocated')
+#6 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#7 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 10:00:25 --> Undefined property: CodeIgniter\View\View::$input
+#0 /home/kottako/public_html/app/Views/admin/managefasttagspecific.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', '/home/kottako/p...', 96)
+#1 /home/kottako/public_html/system/View/View.php(210): include('/home/kottako/p...')
+#2 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/managefas...', Array, true)
+#4 /home/kottako/public_html/app/Controllers/FastTagController.php(425): view('admin/managefas...', Array)
+#5 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttagspecific('allocated')
+#6 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#7 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-04-17 10:37:55 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in /home/kottako/public_html/app/Models/SalesManagerModel.php on line 194
+#0 /home/kottako/public_html/app/Models/SalesManagerModel.php(194): CodeIgniter\Database\BaseBuilder->like('barcode', Array)
+#1 /home/kottako/public_html/app/Controllers/FastTagController.php(369): App\Models\SalesManagerModel->fastaglike(Array)
+#2 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#3 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#4 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-17 10:37:55 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in /home/kottako/public_html/app/Models/SalesManagerModel.php on line 194
+#0 /home/kottako/public_html/app/Models/SalesManagerModel.php(194): CodeIgniter\Database\BaseBuilder->like('barcode', Array)
+#1 /home/kottako/public_html/app/Controllers/FastTagController.php(369): App\Models\SalesManagerModel->fastaglike(Array)
+#2 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#3 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#4 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-17 10:38:07 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in /home/kottako/public_html/app/Models/SalesManagerModel.php on line 194
+#0 /home/kottako/public_html/app/Models/SalesManagerModel.php(194): CodeIgniter\Database\BaseBuilder->like('barcode', Array)
+#1 /home/kottako/public_html/app/Controllers/FastTagController.php(369): App\Models\SalesManagerModel->fastaglike(Array)
+#2 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#3 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#4 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-17 10:39:27 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::or_like()
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(369): App\Models\SalesManagerModel->fastaglike(Array)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 10:41:20 --> CodeIgniter\Database\BaseBuilder::like(): Argument #2 ($match) must be of type string, array given, called in /home/kottako/public_html/app/Models/SalesManagerModel.php on line 194
+#0 /home/kottako/public_html/app/Models/SalesManagerModel.php(194): CodeIgniter\Database\BaseBuilder->like('barcode', Array)
+#1 /home/kottako/public_html/app/Controllers/FastTagController.php(369): App\Models\SalesManagerModel->fastaglike(Array)
+#2 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#3 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#4 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-17 10:48:34 --> syntax error, unexpected variable "$builder"
+#0 /home/kottako/public_html/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/kottako/p...')
+#1 /home/kottako/public_html/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Sale...')
+#2 /home/kottako/public_html/app/Controllers/FastTagController.php(14): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Sale...')
+#3 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\FastTagController->__construct()
+#4 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-17 10:49:03 --> syntax error, unexpected token ","
+#0 /home/kottako/public_html/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('/home/kottako/p...')
+#1 /home/kottako/public_html/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Sale...')
+#2 /home/kottako/public_html/app/Controllers/FastTagController.php(14): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Sale...')
+#3 /home/kottako/public_html/system/CodeIgniter.php(802): App\Controllers\FastTagController->__construct()
+#4 /home/kottako/public_html/system/CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-17 10:49:22 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::group_start()
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(369): App\Models\SalesManagerModel->fastaglike(Array)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-17 10:51:02 --> Array to string conversion
+#0 /home/kottako/public_html/app/Models/SalesManagerModel.php(194): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', '/home/kottako/p...', 194)
+#1 /home/kottako/public_html/app/Controllers/FastTagController.php(369): App\Models\SalesManagerModel->fastaglike(Array)
+#2 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#3 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#4 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-04-17 11:15:25 --> Undefined variable $i
+#0 /home/kottako/public_html/app/Controllers/FastTagController.php(381): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 381)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-17 11:25:51 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-17 11:44:55 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-17 21:20:45 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(255): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-17 23:13:47 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-17 23:17:12 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-17 23:24:53 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-17 23:25:03 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-17 23:29:04 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-17 23:30:32 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed

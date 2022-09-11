@@ -1,0 +1,392 @@
+CRITICAL - 2022-08-23 12:22:07 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 12:25:36 --> Undefined variable $responsedata
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1569): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1569)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->iciciidrequest()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 12:32:37 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 12:39:09 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 12:44:47 --> Undefined array key "logged_img"
+#0 /home/kottakotabusines/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 5)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottakotabusines/public_html/app/Views/admin/editsalesagent.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#6 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/editsales...', Array, true)
+#8 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1005): view('admin/editsales...', Array)
+#9 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->editProfileAdmin('573')
+#10 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#11 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-23 12:51:30 --> filetype(): Lstat failed for 1661239293034.jpeg
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filetype(): Lst...', '/home/kottakota...', 1541)
+#1 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1541): filetype('1661239293034.j...')
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->iciciidrequest()
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#4 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-23 12:51:33 --> filetype(): Lstat failed for 1661239295205.jpeg
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'filetype(): Lst...', '/home/kottakota...', 1541)
+#1 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1541): filetype('1661239295205.j...')
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->iciciidrequest()
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#4 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-08-23 13:01:34 --> Undefined array key "logged_img"
+#0 /home/kottakotabusines/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 5)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottakotabusines/public_html/app/Views/admin/viewsalesmanager.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#6 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/viewsales...', Array, true)
+#8 /home/kottakotabusines/public_html/app/Controllers/SalesManagerController.php(599): view('admin/viewsales...', Array)
+#9 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesManagerController->viewsalesmanagerProfile('3')
+#10 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesManagerController))
+#11 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-23 13:05:46 --> Undefined variable $response
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1884): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1884)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:08:33 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:08:38 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:08:47 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:08:48 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:09:04 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:09:20 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:09:30 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:09:36 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:09:51 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:09:54 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:10:05 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:10:19 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:10:51 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:10:52 --> Undefined variable $statuss
+#0 /home/kottakotabusines/public_html/app/Controllers/apiController.php(1730): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1730)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\apiController->getstatus()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\apiController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:25:13 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 13:39:39 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 14:22:11 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 14:25:40 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 14:32:40 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 14:41:30 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 15:03:41 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 15:39:43 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 15:41:43 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 16:03:44 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 16:15:27 --> Undefined array key "logged_img"
+#0 /home/kottakotabusines/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 5)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottakotabusines/public_html/app/Views/admin/editsalesagent.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#6 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/editsales...', Array, true)
+#8 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1005): view('admin/editsales...', Array)
+#9 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->editProfileAdmin('180')
+#10 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#11 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-23 16:25:54 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 17:08:47 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 17:41:47 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 18:03:48 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 18:22:19 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 18:32:50 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 19:39:51 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 20:18:58 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 20:26:23 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 21:19:24 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 21:41:55 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 22:03:55 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 22:51:26 --> Undefined array key "logged_img"
+#0 /home/kottakotabusines/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 5)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottakotabusines/public_html/app/Views/admin/editteamlead.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#6 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/editteaml...', Array, true)
+#8 /home/kottakotabusines/public_html/app/Controllers/TeamLeadController.php(1003): view('admin/editteaml...', Array)
+#9 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadController->editProfileAdmin('31')
+#10 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadController))
+#11 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-08-23 23:19:27 --> Undefined array key 0
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentWalletController.php(75): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 75)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentWalletController->paymentnotation()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentWalletController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 23:39:33 --> Undefined variable $response
+#0 /home/kottakotabusines/public_html/app/Controllers/SalesAgentController.php(1884): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottakota...', 1884)
+#1 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->activateexisting()
+#2 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-08-23 23:50:02 --> Undefined array key "logged_img"
+#0 /home/kottakotabusines/public_html/app/Views/partials/adminPanel/sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottakota...', 5)
+#1 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#2 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/kottakotabusines/public_html/system/View/View.php(424): CodeIgniter\View\View->render('partials/adminP...', NULL, true)
+#4 /home/kottakotabusines/public_html/app/Views/admin/viewteamlead.php(18): CodeIgniter\View\View->include('partials/adminP...')
+#5 /home/kottakotabusines/public_html/system/View/View.php(210): include('/home/kottakota...')
+#6 /home/kottakotabusines/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/kottakotabusines/public_html/system/Common.php(1089): CodeIgniter\View\View->render('admin/viewteaml...', Array, true)
+#8 /home/kottakotabusines/public_html/app/Controllers/TeamLeadController.php(652): view('admin/viewteaml...', Array)
+#9 /home/kottakotabusines/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadController->viewteamleadProfile('31')
+#10 /home/kottakotabusines/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadController))
+#11 /home/kottakotabusines/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 /home/kottakotabusines/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#13 {main}

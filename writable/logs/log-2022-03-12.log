@@ -1,0 +1,30 @@
+CRITICAL - 2022-03-12 21:04:18 --> Undefined array key "RegdNum"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\FastTagController.php(141): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 141)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-12 22:08:47 --> syntax error, unexpected token ":", expecting "," or ";"
+#0 E:\xampp\htdocs\hitchpay\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\hitchpay\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-12 23:55:46 --> Undefined variable $dtm
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\FastTagController.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 186)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-12 23:55:49 --> Undefined variable $dtm
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\FastTagController.php(186): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 186)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\FastTagController->managefasttag()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FastTagController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

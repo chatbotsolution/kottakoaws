@@ -1,0 +1,27 @@
+CRITICAL - 2022-03-15 21:57:51 --> Undefined variable $tagg
+#0 E:\xampp\htdocs\hitchpay\app\Views\salesagent\tagactivation.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 73)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesagent/taga...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(935): view('salesagent/taga...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-15 22:31:08 --> Undefined variable $tagclass
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(946): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 946)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-15 22:33:56 --> syntax error, unexpected token "endforeach"
+#0 E:\xampp\htdocs\hitchpay\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('E:\\xampp\\htdocs...')
+#1 E:\xampp\htdocs\hitchpay\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

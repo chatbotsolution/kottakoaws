@@ -1,0 +1,387 @@
+CRITICAL - 2022-04-23 03:44:27 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(547): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 547)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->paymentstatus()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-23 06:19:00 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:19:01 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:19:01 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:19:44 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:19:52 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:19:52 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:19:58 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:19:59 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:19:59 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:20:08 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:20:08 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:20:13 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:20:56 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:21:11 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 06:54:14 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 07:19:54 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 08:33:25 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 08:33:55 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 08:34:04 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 08:34:10 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 08:34:44 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 08:39:53 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 08:42:16 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(547): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 547)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->paymentstatus()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 08:45:18 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(262): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 08:45:25 --> file_get_contents(UP8020120004376): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', '/home/kottako/p...', 1691)
+#1 /home/kottako/public_html/app/Controllers/SalesAgentController.php(1691): file_get_contents('UP8020120004376')
+#2 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->allotTags('242')
+#3 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#4 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-23 08:50:32 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 09:22:17 --> Invalid file: teamlead/editprofile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/editpr...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/editpr...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(248): view('teamlead/editpr...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->editProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-23 09:30:12 --> Invalid file: salesagent/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('salesagent/Prof...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/Prof...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/SalesAgentProfileController.php(280): view('salesagent/Prof...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-23 09:30:16 --> Invalid file: salesagent/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('salesagent/Prof...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/Prof...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/SalesAgentProfileController.php(280): view('salesagent/Prof...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-23 09:34:04 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 09:34:44 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 09:42:31 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(547): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 547)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->paymentstatus()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-23 09:58:58 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 10:09:35 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 10:09:37 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 10:10:27 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 10:11:53 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 10:14:13 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(252): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 10:14:23 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(252): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 10:14:26 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(252): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 10:14:32 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(252): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 10:14:37 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(252): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 10:14:48 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(252): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 10:23:51 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(252): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-23 10:27:13 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 10:36:03 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 10:55:21 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/TeamLeadController.php(1028): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadController->fastagInventory()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-23 11:08:37 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 11:42:45 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(547): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 547)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->paymentstatus()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-23 12:16:29 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 12:19:52 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 12:21:17 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 12:21:30 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 12:21:44 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 12:32:30 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 12:39:06 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 12:54:25 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:00:13 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:00:31 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:00:35 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:00:36 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:01:15 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:01:27 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 13:15:10 --> Undefined variable $newdrivingproof
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(238): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 238)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-23 13:15:50 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 13:20:55 --> Undefined variable $newdrivingproof
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(238): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 238)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-23 13:27:25 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:37:19 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:38:03 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:38:05 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:38:06 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:38:06 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 13:38:30 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 13:38:49 --> file_get_contents(UP8020120004376): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'file_get_conten...', '/home/kottako/p...', 1691)
+#1 /home/kottako/public_html/app/Controllers/SalesAgentController.php(1691): file_get_contents('UP8020120004376')
+#2 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->allotTags('242')
+#3 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#4 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2022-04-23 13:54:50 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 14:01:49 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 14:24:30 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 14:29:15 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 14:41:25 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 14:41:40 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 15:08:59 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 15:09:09 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 15:31:13 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 15:44:12 --> sizeof(): Argument #1 ($value) must be of type Countable|array, null given
+#0 /home/kottako/public_html/app/Controllers/SalesManagerController.php(903): sizeof(NULL)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesManagerController->fastagInventory()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesManagerController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 15:49:20 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentTagController.php(553): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', '/home/kottako/p...', 553)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentTagController->paymentstatus()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentTagController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-23 15:55:25 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 16:17:35 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 16:19:16 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 17:28:44 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 17:31:53 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 17:42:53 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 18:03:31 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 18:03:35 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 18:03:52 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 18:03:52 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 18:04:19 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 18:15:43 --> Invalid file: teamlead/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('teamlead/Profil...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('teamlead/Profil...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/TeamLeadProfileController.php(262): view('teamlead/Profil...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\TeamLeadProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-23 18:23:29 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 18:44:54 --> Undefined variable $newdrivingproof
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(238): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 238)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-23 18:46:08 --> Undefined variable $newdrivingproof
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(238): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 238)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-04-23 19:01:47 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 19:40:45 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 20:04:13 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 20:23:03 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 20:23:19 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 20:23:50 --> Invalid file: salesagent/editprofile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('salesagent/edit...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/edit...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/SalesAgentProfileController.php(265): view('salesagent/edit...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentProfileController->editProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-23 20:23:56 --> Invalid file: salesagent/editprofile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('salesagent/edit...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/edit...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/SalesAgentProfileController.php(265): view('salesagent/edit...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentProfileController->editProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-04-23 20:24:03 --> Invalid file: salesagent/Profile.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('salesagent/Prof...')
+#1 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render('salesagent/Prof...', Array, true)
+#2 /home/kottako/public_html/app/Controllers/SalesAgentProfileController.php(280): view('salesagent/Prof...', Array)
+#3 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentProfileController->viewProfile()
+#4 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentProfileController))
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-04-23 20:43:32 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 21:35:33 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+ERROR - 2022-04-23 22:11:48 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14090086:SSL routines:ssl3_get_server_certificate:certificate verify failed
+CRITICAL - 2022-04-23 22:36:38 --> Undefined variable $slct
+#0 /home/kottako/public_html/app/Controllers/SalesManagerController.php(274): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', '/home/kottako/p...', 274)
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesManagerController->addSalesManager()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesManagerController))
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 /home/kottako/public_html/index.php(41): CodeIgniter\CodeIgniter->run()
+#5 {main}

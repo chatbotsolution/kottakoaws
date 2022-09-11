@@ -1,0 +1,55 @@
+CRITICAL - 2022-03-31 16:21:43 --> Call to undefined function App\Controllers\generateSignature()
+#0 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#1 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#2 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-03-31 16:45:46 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(971): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 17:07:33 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(971): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 17:45:55 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(971): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 18:07:55 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(971): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 19:46:25 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(971): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 20:07:56 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(971): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-31 23:46:28 --> Undefined array key 0
+#0 /home/kottako/public_html/app/Controllers/SalesAgentController.php(971): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,9 @@
+CRITICAL - 2022-04-08 23:05:48 --> syntax error, unexpected token "}"
+#0 /home/kottako/public_html/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/kottako/public_html/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 /home/kottako/public_html/system/CodeIgniter.php(790): class_exists()
+#4 /home/kottako/public_html/system/CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

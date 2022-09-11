@@ -1,0 +1,45 @@
+ERROR - 2022-03-07 00:18:46 --> Column 'tollname' cannot be null
+CRITICAL - 2022-03-07 00:18:46 --> Column 'tollname' cannot be null
+#0 E:\xampp\htdocs\hitchpay\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `sa...', 0)
+#1 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `sa...')
+#2 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `sa...')
+#3 E:\xampp\htdocs\hitchpay\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `sa...', Array, false)
+#4 E:\xampp\htdocs\hitchpay\app\Models\SalesAgentModel.php(14): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(251): App\Models\SalesAgentModel->loginDatainsert('salesagent', Array)
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#8 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-07 00:20:25 --> Call to undefined function App\Controllers\sendEMail()
+#0 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+ERROR - 2022-03-07 00:22:27 --> Unknown column 'salesagent.tollname' in 'field list'
+CRITICAL - 2022-03-07 00:22:27 --> Unknown column 'salesagent.tollname' in 'field list'
+#0 E:\xampp\htdocs\hitchpay\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `salesag...', 0)
+#1 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `salesag...')
+#2 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `salesag...')
+#3 E:\xampp\htdocs\hitchpay\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `salesag...', Array, false)
+#4 E:\xampp\htdocs\hitchpay\app\Models\SalesAgentModel.php(119): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(560): App\Models\SalesAgentModel->requestshow()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->adminAproval()
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#8 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2022-03-07 00:23:39 --> Unknown column 'salesagent.tollname' in 'field list'
+CRITICAL - 2022-03-07 00:23:39 --> Unknown column 'salesagent.tollname' in 'field list'
+#0 E:\xampp\htdocs\hitchpay\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `salesag...', 0)
+#1 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `salesag...')
+#2 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `salesag...')
+#3 E:\xampp\htdocs\hitchpay\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `salesag...', Array, false)
+#4 E:\xampp\htdocs\hitchpay\app\Models\SalesAgentModel.php(119): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(560): App\Models\SalesAgentModel->requestshow()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->adminAproval()
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#8 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}

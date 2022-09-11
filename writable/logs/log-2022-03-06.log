@@ -1,0 +1,25 @@
+CRITICAL - 2022-03-06 22:43:52 --> Undefined array key "teamleademailid"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\TeamLeadController.php(461): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 461)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\TeamLeadController->sendotp()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 22:44:35 --> Undefined array key "teamleademailid"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\TeamLeadController.php(461): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 461)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\TeamLeadController->sendotp()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-06 23:38:20 --> Undefined array key "productid"
+#0 E:\xampp\htdocs\hitchpay\app\Views\teamlead\addsalesagent.php(154): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 154)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('teamlead/addsal...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(273): view('teamlead/addsal...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->addSalesAgent()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}

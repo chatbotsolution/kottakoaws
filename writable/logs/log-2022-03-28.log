@@ -1,0 +1,285 @@
+CRITICAL - 2022-03-28 00:42:39 --> Undefined array key "salesagentId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(934): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 934)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 00:45:22 --> Undefined variable $retrndata
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(935): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 935)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 00:46:04 --> Undefined variable $lid
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(940): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 940)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:12 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:14 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:16 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:18 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:21 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:23 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:26 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:29 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:31 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:34 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:37 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:39 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:42 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:44 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:47 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:49 --> Undefined array key "orderId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 1105)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:52 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:54 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:56 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:43:58 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:00 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:03 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:05 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:08 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:10 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:13 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:15 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:18 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:21 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:23 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 01:44:26 --> Undefined variable $salesagentid0
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1108): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 1108)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 02:03:18 --> Undefined array key "paymentstatus"
+#0 E:\xampp\htdocs\hitchpay\app\Views\salesagent\tagactivation.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 62)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesagent/taga...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1136): view('salesagent/taga...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-28 02:03:27 --> Undefined array key "paymentstatus"
+#0 E:\xampp\htdocs\hitchpay\app\Views\salesagent\tagactivation.php(62): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 62)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesagent/taga...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(1136): view('salesagent/taga...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->tagActivation()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-28 02:05:09 --> Undefined property: CodeIgniter\View\View::$session
+#0 E:\xampp\htdocs\hitchpay\app\Views\salesagent\paymentstatus.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined prope...', 'E:\\xampp\\htdocs...', 17)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesagent/paym...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(952): view('salesagent/paym...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-28 02:26:20 --> Undefined array key "setTagactivationId"
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(938): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 938)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-03-28 02:27:30 --> Undefined variable $response
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(942): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'E:\\xampp\\htdocs...', 942)
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->stats()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

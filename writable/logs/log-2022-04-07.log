@@ -1,0 +1,40 @@
+CRITICAL - 2022-04-07 11:40:40 --> Invalid file: partials/salesmanager/css.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render()
+#2 /home/kottako/public_html/app/Views/salesmanager/managesalesagent.php(9): CodeIgniter\View\View->include()
+#3 /home/kottako/public_html/system/View/View.php(210): include('...')
+#4 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render()
+#6 /home/kottako/public_html/app/Controllers/SalesAgentController.php(312): view()
+#7 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->manageSalesAgent()
+#8 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#9 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-04-07 11:43:34 --> Invalid file: partials/salesmanager/css.php
+#0 /home/kottako/public_html/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /home/kottako/public_html/system/View/View.php(424): CodeIgniter\View\View->render()
+#2 /home/kottako/public_html/app/Views/salesmanager/managesalesagent.php(9): CodeIgniter\View\View->include()
+#3 /home/kottako/public_html/system/View/View.php(210): include('...')
+#4 /home/kottako/public_html/system/View/View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home/kottako/public_html/system/Common.php(1089): CodeIgniter\View\View->render()
+#6 /home/kottako/public_html/app/Controllers/SalesAgentController.php(312): view()
+#7 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\SalesAgentController->manageSalesAgent()
+#8 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#9 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-04-07 11:45:22 --> Call to undefined method App\Models\SalesManagerModel::snglprddtls
+#0 /home/kottako/public_html/app/Controllers/OEMController.php(659): CodeIgniter\Model->__call()
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\OEMController->tagActivation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-04-07 17:25:08 --> Call to undefined method App\Models\SalesManagerModel::snglprddtls
+#0 /home/kottako/public_html/app/Controllers/OEMController.php(659): CodeIgniter\Model->__call()
+#1 /home/kottako/public_html/system/CodeIgniter.php(825): App\Controllers\OEMController->tagActivation()
+#2 /home/kottako/public_html/system/CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController()
+#3 /home/kottako/public_html/system/CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/kottako/public_html/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

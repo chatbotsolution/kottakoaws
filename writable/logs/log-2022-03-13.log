@@ -1,0 +1,113 @@
+CRITICAL - 2022-03-13 17:28:34 --> foreach() argument must be of type array|object, null given
+#0 E:\xampp\htdocs\hitchpay\app\Views\salesagent\ncpitag.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'foreach() argum...', 'E:\\xampp\\htdocs...', 76)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(890): view('salesagent/ncpi...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-13 18:15:17 --> Undefined array key "tollname"
+#0 E:\xampp\htdocs\hitchpay\app\Views\salesagent\profile.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 104)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesagent/Prof...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentProfileController.php(280): view('salesagent/Prof...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentProfileController->viewProfile()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentProfileController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-13 18:15:58 --> Undefined array key "tollname"
+#0 E:\xampp\htdocs\hitchpay\app\Views\salesagent\profile.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 104)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesagent/Prof...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentProfileController.php(280): view('salesagent/Prof...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentProfileController->viewProfile()
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentProfileController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-03-13 20:10:06 --> session_start(): Failed to decode session object. Session has been destroyed
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'session_start()...', 'E:\\xampp\\htdocs...', 894)
+#1 E:\xampp\htdocs\hitchpay\system\Session\Session.php(894): session_start()
+#2 E:\xampp\htdocs\hitchpay\system\Session\Session.php(238): CodeIgniter\Session\Session->startSession()
+#3 E:\xampp\htdocs\hitchpay\system\Config\Services.php(577): CodeIgniter\Session\Session->start()
+#4 E:\xampp\htdocs\hitchpay\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session(Object(Config\App), false)
+#5 E:\xampp\htdocs\hitchpay\system\Config\BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#6 E:\xampp\htdocs\hitchpay\system\Config\Services.php(563): CodeIgniter\Config\BaseService::getSharedInstance('session', NULL)
+#7 E:\xampp\htdocs\hitchpay\system\Config\BaseService.php(248): CodeIgniter\Config\Services::session()
+#8 E:\xampp\htdocs\hitchpay\system\Common.php(901): CodeIgniter\Config\BaseService::__callStatic('session', Array)
+#9 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(19): session()
+#10 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(802): App\Controllers\SalesAgentController->__construct()
+#11 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#12 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#13 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-03-13 20:10:12 --> Undefined array key "logged_img"
+#0 E:\xampp\htdocs\hitchpay\app\Views\partials\salesagent\sidebar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'E:\\xampp\\htdocs...', 5)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\View\View.php(424): CodeIgniter\View\View->render('partials/salesa...', NULL, true)
+#4 E:\xampp\htdocs\hitchpay\app\Views\salesagent\ncpitag.php(18): CodeIgniter\View\View->include('partials/salesa...')
+#5 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#6 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesagent/ncpi...', Array, true)
+#8 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(890): view('salesagent/ncpi...', Array)
+#9 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->ncpitag()
+#10 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#11 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-03-13 21:39:07 --> Too few arguments to function App\Models\SalesAgentModel::showSelectdAgent(), 0 passed in E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php on line 303 and exactly 1 expected
+#0 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(303): App\Models\SalesAgentModel->showSelectdAgent()
+#1 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->manageSalesAgent()
+#2 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-03-13 21:42:34 --> Unknown column 'nomeedetails.firstName' in 'field list'
+CRITICAL - 2022-03-13 21:42:34 --> Unknown column 'nomeedetails.firstName' in 'field list'
+#0 E:\xampp\htdocs\hitchpay\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT `teamlea...', 0)
+#1 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `teamlea...')
+#2 E:\xampp\htdocs\hitchpay\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `teamlea...')
+#3 E:\xampp\htdocs\hitchpay\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT `teamlea...', Array, false)
+#4 E:\xampp\htdocs\hitchpay\app\Models\SalesAgentModel.php(161): CodeIgniter\Database\BaseBuilder->get()
+#5 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(303): App\Models\SalesAgentModel->showSelectdAgent('1')
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->manageSalesAgent()
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#8 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-03-13 22:51:03 --> Invalid file: salesmanager/viewsalesagent.php
+#0 E:\xampp\htdocs\hitchpay\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('salesmanager/vi...')
+#1 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesmanager/vi...', Array, true)
+#2 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(648): view('salesmanager/vi...', Array)
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->viewoemProfile('1')
+#4 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-13 22:52:19 --> Invalid file: salesmanager/viewsalesagent.php
+#0 E:\xampp\htdocs\hitchpay\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('salesmanager/vi...')
+#1 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesmanager/vi...', Array, true)
+#2 E:\xampp\htdocs\hitchpay\app\Controllers\SalesAgentController.php(648): view('salesmanager/vi...', Array)
+#3 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\SalesAgentController->viewoemProfile('1')
+#4 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\SalesAgentController))
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-03-13 22:58:54 --> Trying to access array offset on value of type null
+#0 E:\xampp\htdocs\hitchpay\app\Views\salesmanager\viewteamlead.php(227): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'E:\\xampp\\htdocs...', 227)
+#1 E:\xampp\htdocs\hitchpay\system\View\View.php(210): include('E:\\xampp\\htdocs...')
+#2 E:\xampp\htdocs\hitchpay\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 E:\xampp\htdocs\hitchpay\system\Common.php(1089): CodeIgniter\View\View->render('salesmanager/vi...', Array, true)
+#4 E:\xampp\htdocs\hitchpay\app\Controllers\TeamLeadController.php(618): view('salesmanager/vi...', Array)
+#5 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(825): App\Controllers\TeamLeadController->viewteamleadProfile('2')
+#6 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeamLeadController))
+#7 E:\xampp\htdocs\hitchpay\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 E:\xampp\htdocs\hitchpay\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
